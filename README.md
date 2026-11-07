@@ -9,8 +9,8 @@ Tenho interesse em desenvolvimento de software e análise de dados. Busco consta
 ## 🛠️ Habilidades técnicas
 
 - **Linguagens:** Java, JavaScript e Python.
-- **Desenvolvimento Web:** HTML, CSS e React.
-- **Banco de Dados:** SQL e Supabase.
+- **Desenvolvimento Web:** HTML, CSS, React e Node.js.
+- **Banco de Dados:** SQL.
 - **Ferramentas:** Git e GitHub.
 - **Áreas de interesse:** Desenvolvimento de Software, Análise de Dados e Machine Learning.
 
