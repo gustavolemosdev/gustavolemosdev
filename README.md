@@ -21,3 +21,9 @@ Aprimorando meus conhecimentos em programação, engenharia de software, anális
 ## 🚀 Objetivo
 
 Compartilhar meus projetos, registrar minha evolução acadêmica e profissional e desenvolver soluções que contribuam para minha trajetória na área de tecnologia.
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,html,css,git,github,supabase,mysql" />
+</div>
