@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Meu nome é **Gustavo Lemos** e sou estudante de **Ciência da Computação na Universidade de Fortaleza (UNIFOR)**, atualmente cursando o **4º semestre**.
+Meu nome é **Gustavo Lemos** e sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR)**, atualmente cursando o **4º semestre**.
 
 Tenho interesse em desenvolvimento de software e análise de dados. Busco constantemente expandir meus conhecimentos, explorar novas tecnologias e desenvolver soluções por meio de projetos práticos.
 
