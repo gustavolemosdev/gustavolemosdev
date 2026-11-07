@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Seja bem-vindo(a) ao meu perfil! 👋
 
-<!--
-**gustavolemosdev/gustavolemosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Meu nome é **Gustavo Lemos** e sou estudante de **Ciência da Computação na Universidade de Fortaleza (UNIFOR)**, atualmente cursando o **4º semestre**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em desenvolvimento de software e análise de dados. Busco constantemente expandir meus conhecimentos, explorar novas tecnologias e desenvolver soluções por meio de projetos práticos.
+
+## 🛠️ Habilidades técnicas
+
+- **Linguagens:** Java, JavaScript e Python.
+- **Desenvolvimento Web:** HTML, CSS e React.
+- **Banco de Dados:** SQL e Supabase.
+- **Ferramentas:** Git e GitHub.
+- **Áreas de interesse:** Desenvolvimento de Software, Análise de Dados e Machine Learning.
+
+## 📚 Atualmente
+
+Aprimorando meus conhecimentos em programação, engenharia de software, análise de dados e aprendizado de máquina.
+
+## 🚀 Objetivo
+
+Compartilhar meus projetos, registrar minha evolução acadêmica e profissional e desenvolver soluções que contribuam para minha trajetória na área de tecnologia.
